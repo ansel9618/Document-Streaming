@@ -1,6 +1,6 @@
 # Document-Streaming
 
-This is a full end-to-end example project. The project uses e-commerce data that contains invoices for customers and items on these invoices.
+This is a full end-to-end  project. The project uses e-commerce data that contains invoices for customers and items on these invoices.
 
 Our goal is to ingest the invoices one by one, as they are created, and visualize them in a user interface. The technologies we use are FastAPI, Apache Kafka, Apache Spark, MongoDB and Streamlit.
 
