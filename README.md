@@ -2,7 +2,7 @@
 
 This is a full end-to-end  project. The project uses e-commerce data that contains invoices for customers and items on these invoices.
 
-![My Image]([https://github.com/ansel9618/Document-Streaming/blob/main/images/github_doc_streaming.png])
+![My Image](https://github.com/ansel9618/Document-Streaming/blob/main/images/github_doc_streaming.png)
 
 Our goal is to ingest the invoices one by one, as they are created, and visualize them in a user interface. The technologies we use are FastAPI, Apache Kafka, Apache Spark, MongoDB and Streamlit.
 
